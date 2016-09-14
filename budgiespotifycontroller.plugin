@@ -1,0 +1,6 @@
+[Plugin]
+Loader=python3
+Module=budgiespotifycontroller
+Name=Spotify Plugin
+Description=Spotify Controller
+Authors=Neil Yavorski
