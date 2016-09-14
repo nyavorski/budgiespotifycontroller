@@ -4,6 +4,9 @@ A simple applet for Raven to control Spotify and display the current track's met
 
 To install: 
 
-`git clone https://github.com/nyavorski/budgiespotifycontroller.git ~/.local/share/budgie-desktop/modules/`
+`cd ~/.local/share/budgie-desktop/modules/`
+
+`git clone https://github.com/nyavorski/budgiespotifycontroller.git`
+
 `nohup budgie-panel --replace &`
 
